@@ -1,111 +1,42 @@
-<h1 align="center">Hi 👋, I'm Anurag Nagyan</h1>
-
-<h3 align="center">
-Full Stack Developer | React.js | Node.js | MongoDB | Java
-</h3>
+<h1 align="center">Hi, I'm Anurag Nagyan 👋</h1>
+<h3 align="center">Full Stack Developer · React · Node.js · MongoDB</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-nagyan-44a406214/">LinkedIn</a> •
-  <a href="https://github.com/anuragnagyan17">GitHub</a> •
-  <a href="https://leetcode.com/u/anurag_nagyan/">LeetCode</a>
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:anuragnagyan8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Full Stack Developer passionate about building scalable and
-real-world web applications.
-
-- 🔭 Building full-stack applications using the MERN stack
-- 🌱 Currently learning System Design, Cloud & DevOps
-- 💻 Strong interest in backend development and API design
-- 🧠 Practicing Data Structures & Algorithms with Java
-- 🤖 Exploring AI integration in web applications
-- 🚀 Enjoy turning ideas into production-ready applications
-
----
+## 🧑‍💻 About
+Final-year B.Tech CSE (Data Science) student at AKGEC. I build production-style MERN apps with JWT/OAuth, RBAC, real-time features, and AI integration. Co-author of an IEEE-published paper. Looking for fresher Full Stack roles in Delhi NCR / Remote.
 
 ## 🛠️ Tech Stack
-
-### Languages
-JavaScript • Java • Python • SQL • HTML • CSS
-
-### Frontend
-React.js • Next.js • Redux Toolkit • Tailwind CSS
-
-### Backend
-Node.js • Express.js • REST APIs • JWT • OAuth • RBAC • Socket.IO
-
-### Databases
-MongoDB • MySQL • Redis
-
-### Cloud & Tools
-Docker • AWS • Vercel • Render • Git • GitHub • Postman
-
----
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
 ## 🚀 Featured Projects
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **DriveNest** | AI-powered car rental platform with Gemini NL search and real-time chat | React 19, Node, MongoDB, Redis, Socket.IO | [Code](https://github.com/anuragnagyan17/DriveNest.git) · [Live](drive-nest-beta.vercel.app) |
+| **Hirely** | Job portal with Candidate/Recruiter roles and RBAC | React, Redux Toolkit, Node, MongoDB | [Code](https://github.com/anuragnagyan17/Hirely.git) · [Live](https://hirely-eight-tan.vercel.app) |
+| **Dwello** | Airbnb-style booking platform with map-based listings | Node, EJS, Passport, Leaflet | [Code](https://github.com/anuragnagyan17/Dwello-airbnb-clone.git) · [Live](dwello-airbnb-clone.onrender.com) |
 
-### 🚗 DriveNest — AI-Powered Car Rental Platform
+## 🏆 Highlights
+- 📄 Co-authored *"A Smart Farm ERP Framework Using Decision Tree Algorithms"*, IEEE IC2PCT 2026 (98.18% accuracy)
+- 🧩 150+ DSA problems solved on LeetCode
+- 💼 Web Development Intern, IBM PBEL (2025)
 
-A full-stack car rental platform with role-based authentication,
-AI-powered search, real-time communication and booking management.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • Redis • Gemini AI • Socket.IO
-
-🔗 [View Repository](https://github.com/anuragnagyan17/DriveNest)
-
----
-
-### 💼 Hirely — Job Portal
-
-A full-stack job portal connecting candidates and recruiters with
-job discovery, applications and real-time application tracking.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • Redux Toolkit • JWT
-
-🔗 [View Repository](https://github.com/anuragnagyan17/Hirely)
-
----
-
-### 🏠 Dwello — Airbnb-Style Booking Platform
-
-A full-stack property listing and booking platform featuring
-authentication, interactive maps and server-side validation.
-
-**Tech:** Node.js • Express.js • MongoDB • EJS • Passport.js • Leaflet.js
-
----
-
-## 🧠 Problem Solving
-
-- 150+ DSA problems solved on LeetCode
-- Practicing Data Structures & Algorithms using Java
-- Strong foundation in OOP and DBMS
-
----
-
-## 🏆 Achievements
-
-- 📝 Co-authored an IEEE-published research paper
-- 💻 Completed IBM PBEL Web Development Internship
-- 🚀 Built and deployed multiple full-stack applications
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing software development,
-interesting projects and collaboration opportunities.
-
-📧 Email: anuragnagyan8@gmail.com
-
-💼 LinkedIn:
-https://www.linkedin.com/in/anurag-nagyan-44a406214/
-
-💻 GitHub:
-https://github.com/anuragnagyan17/
-
-🧩 LeetCode:
-https://leetcode.com/u/anurag_nagyan/
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anuragnagyan17&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnagyan17&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
