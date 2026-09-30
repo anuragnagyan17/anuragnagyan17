@@ -1,10 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anurag%20Nagyan&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20AI&descAlignY=56&descSize=20" />
 </p>
-
-<h1 align="center">Hi, I'm Anurag Nagyan 👋</h1>
-<h3 align="center">Full Stack Developer · React · Node.js · MongoDB</h3>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F0A04B&center=true&vCenter=true&width=650&lines=IEEE-Published+Researcher;Building+with+React+%7C+Node.js+%7C+MongoDB;Gemini+AI+%2B+Socket.IO+%2B+Redis+in+Production;Open+to+Fresher+Roles+in+Delhi+NCR+%26+Remote" alt="Typing SVG" />
+  </a>
+</p>
 <p align="center">
   <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:anuragnagyan8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -24,7 +25,7 @@ Final-year B.Tech CSE (Data Science) student at AKGEC. I build production-style 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
 ## 🚀 Featured Projects
@@ -40,7 +41,12 @@ Final-year B.Tech CSE (Data Science) student at AKGEC. I build production-style 
 - 💼 Web Development Intern, IBM PBEL (2025)
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anuragnagyan17&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnagyan17&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragnagyan17&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnagyan17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
+
+## 📬 Let's Connect
+
+I'm actively looking for **fresher Full Stack / MERN roles** in Delhi NCR (Noida, Gurugram, Delhi) and remote. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anurag-nagyan-44a406214/?isSelfProfile=true) or by [email](mailto:anuragnagyan8@gmail.com).
