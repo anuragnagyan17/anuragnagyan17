@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anurag%20Nagyan&fontSize=52&fontAlignY=36&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20AI&descAlignY=56&descSize=20" />
+</p>
+
 <h1 align="center">Hi, I'm Anurag Nagyan 👋</h1>
 <h3 align="center">Full Stack Developer · React · Node.js · MongoDB</h3>
 
