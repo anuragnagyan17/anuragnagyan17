@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F0A04B&center=true&vCenter=true&width=650&lines=IEEE-Published+Researcher;Building+with+React+%7C+Node.js+%7C+MongoDB;Gemini+AI+%2B+Socket.IO+%2B+Redis+in+Production;Open+to+Fresher+Roles+in+Delhi+NCR+%26+Remote" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F0A04B&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Redux+Toolkit+%7C+Tailwind+CSS;Node.js+%7C+Express.js+%7C+MongoDB+%7C+MySQL+%7C+Redis;Gemini+AI+%2B+Socket.IO+%2B+Docker+%2B+AWS;IEEE+IC2PCT+2026+%7C+Smart+Farm+ERP+using+Decision+Trees+%7C+98.18%25+Accuracy;Actively+Looking+for+Full+Stack+Developer+Roles;Open+to+Opportunities+Anywhere" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
@@ -13,20 +13,61 @@
 </p>
 
 ## 🧑‍💻 About
-Final-year B.Tech CSE (Data Science) student at AKGEC. I build production-style MERN apps with JWT/OAuth, RBAC, real-time features, and AI integration. Co-author of an IEEE-published paper. Looking for fresher Full Stack roles in Delhi NCR / Remote.
+
+Final-year B.Tech CSE (Data Science) student at AKGEC and a Full Stack Developer. I build production-style web apps with React, Node.js, and MongoDB, featuring JWT/OAuth authentication, RBAC, real-time features, and AI integration. Co-author of an IEEE-published paper. Actively looking for Full Stack Developer roles, open to any location.
 
 ## 🛠️ Tech Stack
+
+**Languages**
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend**
+<br>
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black)
+
+**Backend**
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=black)
+
+**Databases**
+<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(S3,_EC2)-FF9900?style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**AI & Libraries**
+<br>
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat&logo=leaflet&logoColor=white)
+
+**CS Fundamentals:** DSA · OOP · DBMS · Operating Systems · System Design
 
 ## 🚀 Featured Projects
 | Project | What it does | Stack | Links |
@@ -37,16 +78,21 @@ Final-year B.Tech CSE (Data Science) student at AKGEC. I build production-style 
 
 ## 🏆 Highlights
 - 📄 Co-authored *"A Smart Farm ERP Framework Using Decision Tree Algorithms"*, IEEE IC2PCT 2026 (98.18% accuracy)
-- 🧩 150+ DSA problems solved on LeetCode
+- 🧩 170+ DSA problems solved on LeetCode
 - 💼 Web Development Intern, IBM PBEL (2025)
+
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragnagyan17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragnagyan17&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anuragnagyan17&theme=tokyonight&exclude_days=Thu%2CFri" alt="GitHub Streak" /></a>
 </p>
 
 ## 📬 Let's Connect
 
-I'm actively looking for **fresher Full Stack / MERN roles** in Delhi NCR (Noida, Gurugram, Delhi) and remote. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anurag-nagyan-44a406214/?isSelfProfile=true) or by [email](mailto:anuragnagyan8@gmail.com).
+I'm actively looking for **Full Stack Developer roles** and I'm open to any location.
+
+<a href="https://www.linkedin.com/in/anurag-nagyan-44a406214/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn" /></a>
+<a href="mailto:anuragnagyan8@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" title="Email" /></a>
+<a href="https://github.com/anuragnagyan17"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" title="GitHub" /></a>
