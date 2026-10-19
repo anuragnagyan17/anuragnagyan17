@@ -78,7 +78,7 @@ Final-year B.Tech CSE (Data Science) student at AKGEC and a Full Stack Developer
 
 ## 🏆 Highlights
 - 📄 Co-authored *"A Smart Farm ERP Framework Using Decision Tree Algorithms"*, IEEE IC2PCT 2026 (98.18% accuracy)
-- 🧩 170+ DSA problems solved on LeetCode
+- 🧩 200+ DSA problems solved on LeetCode
 - 💼 Web Development Intern, IBM PBEL (2025)
 
 
